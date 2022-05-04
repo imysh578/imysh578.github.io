@@ -1,0 +1,20 @@
+:root {
+  /* ============== colors ===============*/
+  --color-bg: #0D3750;
+  --color-bg-variant: #071e2b;
+  /* --color-primary: #ca6b68;
+  --color-primary-variant: rgb(173, 88, 85, 0.4); */
+  --color-primary: #f39027;
+  --color-primary-variant: rgb(243, 144, 39, 0.4);
+  --color-white: #fff;
+  --color-light: rgba(255, 255, 255, 0.6);
+
+  --container-width-lg: 75%;
+  --container-width-md: 86%;
+  --container-width-sm: 90%;
+
+  --color-black-opacity-30: rgba(0, 0, 0, 0.3);
+
+  /* ============== transition ===============*/
+  --transition : all 400ms ease;
+}
